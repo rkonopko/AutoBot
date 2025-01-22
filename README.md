@@ -1,2 +1,2 @@
 # AutoBot
-Uses Python to perform manual configuration steps conventional automation cannot.
+Uses Python to perform manual Windows configuration steps conventional automation cannot.
