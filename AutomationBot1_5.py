@@ -666,7 +666,7 @@ def SQwindow():
 #### Installer Bot #########################################
 global iBot1
 iBot1 = r'C:\Temp\iBot\iBot1.png'
-global AutoBot2
+global iBot2
 iBot2 = r'C:\Temp\iBot\iBot2.png'
 global iBot3
 iBot3 = r'C:\Temp\iBot\iBot3.png'
